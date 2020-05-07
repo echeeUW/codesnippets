@@ -1,0 +1,239 @@
+{
+  "artists": [
+    {
+      "name": "Linkin Park",
+      "smallImageURL": "https://picsum.photos/seed/LinkinPark/50",
+      "largeImageURL": "https://picsum.photos/seed/LinkinPark/256"
+    },
+    {
+      "name": "Future",
+      "smallImageURL": "https://picsum.photos/seed/Future/50",
+      "largeImageURL": "https://picsum.photos/seed/Future/256"
+    },
+    {
+      "name": "MC Hammer",
+      "smallImageURL": "https://picsum.photos/seed/MCHammer/50",
+      "largeImageURL": "https://picsum.photos/seed/MCHammer/256"
+    },
+    {
+      "name": "Sam Smith",
+      "smallImageURL": "https://picsum.photos/seed/SamSmith/50",
+      "largeImageURL": "https://picsum.photos/seed/SamSmith/256"
+    },
+    {
+      "name": "Justin Bieber",
+      "smallImageURL": "https://picsum.photos/seed/JustinBieber/50",
+      "largeImageURL": "https://picsum.photos/seed/JustinBieber/256"
+    },
+    {
+      "name": "Black Pink",
+      "smallImageURL": "https://picsum.photos/seed/BlackPink/50",
+      "largeImageURL": "https://picsum.photos/seed/BlackPink/256"
+    },
+    {
+      "name": "Taylor Swift",
+      "smallImageURL": "https://picsum.photos/seed/TaylorSwift/50",
+      "largeImageURL": "https://picsum.photos/seed/TaylorSwift/256"
+    },
+    {
+      "name": "Lil Nas X",
+      "smallImageURL": "https://picsum.photos/seed/LilNasX/50",
+      "largeImageURL": "https://picsum.photos/seed/LilNasX/256"
+    },
+    {
+      "name": "Maroon 5",
+      "smallImageURL": "https://picsum.photos/seed/Maroon5/50",
+      "largeImageURL": "https://picsum.photos/seed/Maroon5/256"
+    },
+    {
+      "name": "Dua Lipa",
+      "smallImageURL": "https://picsum.photos/seed/DuaLipa/50",
+      "largeImageURL": "https://picsum.photos/seed/DuaLipa/256"
+    },
+    {
+      "name": "Lewis Capaldi",
+      "smallImageURL": "https://picsum.photos/seed/LewisCapaldi/50",
+      "largeImageURL": "https://picsum.photos/seed/LewisCapaldi/256"
+    },
+    {
+      "name": "TroyBoi",
+      "smallImageURL": "https://picsum.photos/seed/TroyBoi/50",
+      "largeImageURL": "https://picsum.photos/seed/TroyBoi/256"
+    },
+    {
+      "name": "Lewis Capaldi",
+      "smallImageURL": "https://picsum.photos/seed/LewisCapaldi/50",
+      "largeImageURL": "https://picsum.photos/seed/LewisCapaldi/256"
+    },
+    {
+      "name": "Eminem feat. Joyner Lucas",
+      "smallImageURL": "https://picsum.photos/seed/Eminemfeat.JoynerLucas/50",
+      "largeImageURL": "https://picsum.photos/seed/Eminemfeat.JoynerLucas/256"
+    },
+    {
+      "name": "Beyonce feat. Jay-Z",
+      "smallImageURL": "https://picsum.photos/seed/Beyoncefeat.Jay-Z/50",
+      "largeImageURL": "https://picsum.photos/seed/Beyoncefeat.Jay-Z/256"
+    },
+    {
+      "name": "Martin Garrix feat. Bebe Rexha",
+      "smallImageURL": "https://picsum.photos/seed/MartinGarrixfeat.BebeRexha/50",
+      "largeImageURL": "https://picsum.photos/seed/MartinGarrixfeat.BebeRexha/256"
+    },
+    {
+      "name": "Zac Efron \u0026 Zendaya",
+      "smallImageURL": "https://picsum.photos/seed/ZacEfron%26Zendaya/50",
+      "largeImageURL": "https://picsum.photos/seed/ZacEfron%26Zendaya/256"
+    },
+    {
+      "name": "The Lonely Island feat. T-Pain",
+      "smallImageURL": "https://picsum.photos/seed/TheLonelyIslandfeat.T-Pain/50",
+      "largeImageURL": "https://picsum.photos/seed/TheLonelyIslandfeat.T-Pain/256"
+    },
+    {
+      "name": "Luis Fonsi feat. Daddy Yankee \u0026 Justin Bieber",
+      "smallImageURL": "https://picsum.photos/seed/LuisFonsifeat.DaddyYankee%26JustinBieber/50",
+      "largeImageURL": "https://picsum.photos/seed/LuisFonsifeat.DaddyYankee%26JustinBieber/256"
+    },
+    {
+      "name": "Far East Movement feat. The Cataracs \u0026 DEV",
+      "smallImageURL": "https://picsum.photos/seed/FarEastMovementfeat.TheCataracs%26DEV/50",
+      "largeImageURL": "https://picsum.photos/seed/FarEastMovementfeat.TheCataracs%26DEV/256"
+    },
+    {
+      "name": "Bryce Vine, YG",
+      "smallImageURL": "https://picsum.photos/seed/BryceVine%2CYG/50",
+      "largeImageURL": "https://picsum.photos/seed/BryceVine%2CYG/256"
+    },
+    {
+      "name": "Seven Lions, Sombear",
+      "smallImageURL": "https://picsum.photos/seed/SevenLions%2CSombear/50",
+      "largeImageURL": "https://picsum.photos/seed/SevenLions%2CSombear/256"
+    },
+    {
+      "name": "Charlie Puth",
+      "smallImageURL": "https://picsum.photos/seed/CharliePuth/50",
+      "largeImageURL": "https://picsum.photos/seed/CharliePuth/256"
+    },
+    {
+      "name": "Pink Floyd",
+      "smallImageURL": "https://picsum.photos/seed/PinkFloyd/50",
+      "largeImageURL": "https://picsum.photos/seed/PinkFloyd/256"
+    },
+    {
+      "name": "Coldplay",
+      "smallImageURL": "https://picsum.photos/seed/Coldplay/50",
+      "largeImageURL": "https://picsum.photos/seed/Coldplay/256"
+    },
+    {
+      "name": "Frank Ocean",
+      "smallImageURL": "https://picsum.photos/seed/FrankOcean/50",
+      "largeImageURL": "https://picsum.photos/seed/FrankOcean/256"
+    },
+    {
+      "name": "El Huervo",
+      "smallImageURL": "https://picsum.photos/seed/ElHuervo/50",
+      "largeImageURL": "https://picsum.photos/seed/ElHuervo/256"
+    },
+    {
+      "name": "American Authors",
+      "smallImageURL": "https://picsum.photos/seed/AmericanAuthors/50",
+      "largeImageURL": "https://picsum.photos/seed/AmericanAuthors/256"
+    },
+    {
+      "name": "Yuka Kitamura",
+      "smallImageURL": "https://picsum.photos/seed/YukaKitamura/50",
+      "largeImageURL": "https://picsum.photos/seed/YukaKitamura/256"
+    },
+    {
+      "name": "The Lumineers",
+      "smallImageURL": "https://picsum.photos/seed/TheLumineers/50",
+      "largeImageURL": "https://picsum.photos/seed/TheLumineers/256"
+    },
+    {
+      "name": "Ed Sheeran",
+      "smallImageURL": "https://picsum.photos/seed/EdSheeran/50",
+      "largeImageURL": "https://picsum.photos/seed/EdSheeran/256"
+    },
+    {
+      "name": "The Chainsmokers, ILLENIUM, Lennon Stella",
+      "smallImageURL": "https://picsum.photos/seed/TheChainsmokers%2CILLENIUM%2CLennonStella/50",
+      "largeImageURL": "https://picsum.photos/seed/TheChainsmokers%2CILLENIUM%2CLennonStella/256"
+    },
+    {
+      "name": "Vicetone, Tony Igy",
+      "smallImageURL": "https://picsum.photos/seed/Vicetone%2CTonyIgy/50",
+      "largeImageURL": "https://picsum.photos/seed/Vicetone%2CTonyIgy/256"
+    },
+    {
+      "name": "Seven Lions, ILLENIUM, Said the Sky, HALIENE",
+      "smallImageURL": "https://picsum.photos/seed/SevenLions%2CILLENIUM%2CSaidtheSky%2CHALIENE/50",
+      "largeImageURL": "https://picsum.photos/seed/SevenLions%2CILLENIUM%2CSaidtheSky%2CHALIENE/256"
+    },
+    {
+      "name": "Lil Uzi Vert, Young Thug",
+      "smallImageURL": "https://picsum.photos/seed/LilUziVert%2CYoungThug/50",
+      "largeImageURL": "https://picsum.photos/seed/LilUziVert%2CYoungThug/256"
+    },
+    {
+      "name": "ILLENIUM, Said the Sky, Annika Wells",
+      "smallImageURL": "https://picsum.photos/seed/ILLENIUM%2CSaidtheSky%2CAnnikaWells/50",
+      "largeImageURL": "https://picsum.photos/seed/ILLENIUM%2CSaidtheSky%2CAnnikaWells/256"
+    },
+    {
+      "name": "Anamanaguchi",
+      "smallImageURL": "https://picsum.photos/seed/Anamanaguchi/50",
+      "largeImageURL": "https://picsum.photos/seed/Anamanaguchi/256"
+    },
+    {
+      "name": "Frank Ocean",
+      "smallImageURL": "https://picsum.photos/seed/FrankOcean/50",
+      "largeImageURL": "https://picsum.photos/seed/FrankOcean/256"
+    },
+    {
+      "name": "True Damage, Becky G, Keke Palmer, SOYEON of (G)I-DLE, Duckwrth, Thutmose, League of Legends",
+      "smallImageURL": "https://picsum.photos/seed/TrueDamage%2CBeckyG%2CKekePalmer%2CSOYEONof%28G%29I-DLE%2CDuckwrth%2CThutmose%2CLeagueofLegends/50",
+      "largeImageURL": "https://picsum.photos/seed/TrueDamage%2CBeckyG%2CKekePalmer%2CSOYEONof%28G%29I-DLE%2CDuckwrth%2CThutmose%2CLeagueofLegends/256"
+    },
+    {
+      "name": "Russ",
+      "smallImageURL": "https://picsum.photos/seed/Russ/50",
+      "largeImageURL": "https://picsum.photos/seed/Russ/256"
+    },
+    {
+      "name": "Muse",
+      "smallImageURL": "https://picsum.photos/seed/Muse/50",
+      "largeImageURL": "https://picsum.photos/seed/Muse/256"
+    },
+    {
+      "name": "Kenshi Yonezu",
+      "smallImageURL": "https://picsum.photos/seed/KenshiYonezu/50",
+      "largeImageURL": "https://picsum.photos/seed/KenshiYonezu/256"
+    },
+    {
+      "name": "League of Legends, 2WEI, Edda Hayes",
+      "smallImageURL": "https://picsum.photos/seed/LeagueofLegends%2C2WEI%2CEddaHayes/50",
+      "largeImageURL": "https://picsum.photos/seed/LeagueofLegends%2C2WEI%2CEddaHayes/256"
+    },
+    {
+      "name": "DREAMERS",
+      "smallImageURL": "https://picsum.photos/seed/DREAMERS/50",
+      "largeImageURL": "https://picsum.photos/seed/DREAMERS/256"
+    },
+    {
+      "name": "五音JW",
+      "smallImageURL": "https://picsum.photos/seed/%E4%BA%94%E9%9F%B3JW/50",
+      "largeImageURL": "https://picsum.photos/seed/%E4%BA%94%E9%9F%B3JW/256"
+    },
+    {
+      "name": "BIG K.R.I.T.",
+      "smallImageURL": "https://picsum.photos/seed/BIGK.R.I.T./50",
+      "largeImageURL": "https://picsum.photos/seed/BIGK.R.I.T./256"
+    },
+    {
+      "name": "Drake",
+      "smallImageURL": "https://picsum.photos/seed/Drake/50",
+      "largeImageURL": "https://picsum.photos/seed/Drake/256"
+    }
+  ]
+}
